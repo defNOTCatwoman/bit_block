@@ -1,0 +1,53 @@
+.GameController {
+    position: absolute;
+    top: -100em;
+}
+
+.btnLeft{
+    
+    border-top: 3px solid rgba(255, 255, 255, 0.1);
+    border-left: 3px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+    border-right: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(80, 227, 230, 1);
+    margin-left: 10px;
+}
+
+.btnRight{
+    border-top: 3px solid rgba(255, 255, 255, 0.1);
+    border-left: 3px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+    border-right: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(122, 199, 92);
+    margin-left: 10px;
+}
+
+.btnRotate{
+    border-top: 3px solid rgba(255, 255, 255, 0.1);
+    border-left: 3px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+    border-right: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(196, 219, 64);
+    margin-left: 10px;
+}
+
+.btnFastDrop{
+    border-top: 3px solid rgba(255, 255, 255, 0.1);
+    border-left: 3px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+    border-right: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(240, 80, 195, 1);
+    margin-left: 10px;
+}
